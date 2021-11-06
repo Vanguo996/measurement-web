@@ -20,3 +20,4 @@ kubectl get svc/ks-console -n kubesphere-system
 ```
 
 
+git config --global --unset https.proxy
